@@ -1,0 +1,10 @@
+D:\Курсач\Client2.2\Client\bin\Release\Client.exe.config
+D:\Курсач\Client2.2\Client\bin\Release\Client.exe
+D:\Курсач\Client2.2\Client\bin\Release\Client.pdb
+D:\Курсач\Client2.2\Client\obj\x86\Release\Client.Enter.resources
+D:\Курсач\Client2.2\Client\obj\x86\Release\Client.Main.resources
+D:\Курсач\Client2.2\Client\obj\x86\Release\Client.Settings.resources
+D:\Курсач\Client2.2\Client\obj\x86\Release\Client.Properties.Resources.resources
+D:\Курсач\Client2.2\Client\obj\x86\Release\Client.csproj.GenerateResource.Cache
+D:\Курсач\Client2.2\Client\obj\x86\Release\Client.exe
+D:\Курсач\Client2.2\Client\obj\x86\Release\Client.pdb

@@ -1,0 +1,11 @@
+D:\Курсач\Server2.2\Server\bin\Release\Server.exe.config
+D:\Курсач\Server2.2\Server\bin\Release\base.mdb
+D:\Курсач\Server2.2\Server\bin\Release\Server.exe
+D:\Курсач\Server2.2\Server\bin\Release\Server.pdb
+D:\Курсач\Server2.2\Server\obj\x86\Release\Server.Main.resources
+D:\Курсач\Server2.2\Server\obj\x86\Release\Server.Settings.resources
+D:\Курсач\Server2.2\Server\obj\x86\Release\Server.Properties.Resources.resources
+D:\Курсач\Server2.2\Server\obj\x86\Release\Server.Users.resources
+D:\Курсач\Server2.2\Server\obj\x86\Release\Server.csproj.GenerateResource.Cache
+D:\Курсач\Server2.2\Server\obj\x86\Release\Server.exe
+D:\Курсач\Server2.2\Server\obj\x86\Release\Server.pdb

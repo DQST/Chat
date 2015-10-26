@@ -1,0 +1,123 @@
+c:\users\student425\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.exe
+c:\users\student425\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.pdb
+c:\users\student425\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\student425\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.Form1.resources
+c:\users\student425\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+c:\users\student425\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\student425\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\student425\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.exe
+c:\users\student425\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.pdb
+c:\users\student425\documents\visual studio 2010\Projects\Client\Client\bin\Debug\Client.exe.config
+c:\users\student425\documents\visual studio 2010\Projects\Client\Client\obj\x86\Debug\Client.Form2.resources
+D:\Курсач\Client\Client\bin\Debug\Client.exe.config
+D:\Курсач\Client\Client\obj\x86\Debug\Client.exe
+D:\Курсач\Client\Client\obj\x86\Debug\Client.pdb
+D:\Курсач\Client\Client\bin\Debug\Client.exe
+D:\Курсач\Client\Client\bin\Debug\Client.pdb
+D:\Курсач\Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Курсач\Client\Client\obj\x86\Debug\Client.Form1.resources
+D:\Курсач\Client\Client\obj\x86\Debug\Client.Form2.resources
+D:\Курсач\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Курсач\Client\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Client\Client\bin\Debug\Client.exe.config
+C:\Users\ADMIN\Desktop\Client\Client\obj\x86\Debug\Client.exe
+C:\Users\ADMIN\Desktop\Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\ADMIN\Desktop\Client\Client\bin\Debug\Client.exe
+C:\Users\ADMIN\Desktop\Client\Client\bin\Debug\Client.pdb
+C:\Users\ADMIN\Desktop\Client\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Client\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\ADMIN\Desktop\Client\Client\obj\x86\Debug\Client.Form2.resources
+C:\Users\ADMIN\Desktop\Client\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Client\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ADMIN\Desktop\Client\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ADMIN\Desktop\Client2.0\Client\bin\Debug\Client.exe.config
+C:\Users\ADMIN\Desktop\Client2.0\Client\obj\x86\Debug\Client.exe
+C:\Users\ADMIN\Desktop\Client2.0\Client\obj\x86\Debug\Client.pdb
+C:\Users\ADMIN\Desktop\Client2.0\Client\bin\Debug\Client.exe
+C:\Users\ADMIN\Desktop\Client2.0\Client\bin\Debug\Client.pdb
+C:\Users\ADMIN\Desktop\Client2.0\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Client2.0\Client\obj\x86\Debug\Client.Form1.resources
+C:\Users\ADMIN\Desktop\Client2.0\Client\obj\x86\Debug\Client.Form2.resources
+C:\Users\ADMIN\Desktop\Client2.0\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Client2.0\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ADMIN\Desktop\Client2.0\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Курсач\Client2.0\Client\bin\Debug\Client.exe.config
+D:\Курсач\Client2.0\Client\obj\x86\Debug\Client.exe
+D:\Курсач\Client2.0\Client\obj\x86\Debug\Client.pdb
+D:\Курсач\Client2.0\Client\bin\Debug\Client.exe
+D:\Курсач\Client2.0\Client\bin\Debug\Client.pdb
+D:\Курсач\Client2.0\Client\obj\x86\Debug\Client.Form1.resources
+D:\Курсач\Client2.0\Client\obj\x86\Debug\Client.Form2.resources
+D:\Курсач\Client2.0\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Курсач\Client2.0\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\Курсач\Client2.1\Client\bin\Debug\Client.exe.config
+D:\Курсач\Client2.1\Client\obj\x86\Debug\Client.exe
+D:\Курсач\Client2.1\Client\obj\x86\Debug\Client.pdb
+D:\Курсач\Client2.1\Client\bin\Debug\Client.exe
+D:\Курсач\Client2.1\Client\bin\Debug\Client.pdb
+D:\Курсач\Client2.1\Client\obj\x86\Debug\Client.Enter.resources
+D:\Курсач\Client2.1\Client\obj\x86\Debug\Client.Main.resources
+D:\Курсач\Client2.1\Client\obj\x86\Debug\Client.Settings.resources
+D:\Курсач\Client2.1\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Курсач\Client2.1\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Client2.1\Client\bin\Debug\Client.exe.config
+C:\Users\ADMIN\Desktop\Client2.1\Client\obj\x86\Debug\Client.exe
+C:\Users\ADMIN\Desktop\Client2.1\Client\obj\x86\Debug\Client.pdb
+C:\Users\ADMIN\Desktop\Client2.1\Client\bin\Debug\Client.exe
+C:\Users\ADMIN\Desktop\Client2.1\Client\bin\Debug\Client.pdb
+C:\Users\ADMIN\Desktop\Client2.1\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Client2.1\Client\obj\x86\Debug\Client.Enter.resources
+C:\Users\ADMIN\Desktop\Client2.1\Client\obj\x86\Debug\Client.Main.resources
+C:\Users\ADMIN\Desktop\Client2.1\Client\obj\x86\Debug\Client.Settings.resources
+C:\Users\ADMIN\Desktop\Client2.1\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Client2.1\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ADMIN\Desktop\Client2.1\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Курсач\Client2.1\Client\bin\Debug\Client.exe.config
+E:\Курсач\Client2.1\Client\obj\x86\Debug\Client.exe
+E:\Курсач\Client2.1\Client\obj\x86\Debug\Client.pdb
+E:\Курсач\Client2.1\Client\bin\Debug\Client.exe
+E:\Курсач\Client2.1\Client\bin\Debug\Client.pdb
+E:\Курсач\Client2.1\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Курсач\Client2.1\Client\obj\x86\Debug\Client.Enter.resources
+E:\Курсач\Client2.1\Client\obj\x86\Debug\Client.Main.resources
+E:\Курсач\Client2.1\Client\obj\x86\Debug\Client.Settings.resources
+E:\Курсач\Client2.1\Client\obj\x86\Debug\Client.Properties.Resources.resources
+E:\Курсач\Client2.1\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Курсач\Client2.1\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student425\Desktop\Client2.1\Client\bin\Debug\Client.exe.config
+C:\Users\Student425\Desktop\Client2.1\Client\obj\x86\Debug\Client.exe
+C:\Users\Student425\Desktop\Client2.1\Client\obj\x86\Debug\Client.pdb
+C:\Users\Student425\Desktop\Client2.2\Client\bin\Debug\Client.exe.config
+C:\Users\Student425\Desktop\Client2.2\Client\obj\x86\Debug\Client.exe
+C:\Users\Student425\Desktop\Client2.2\Client\obj\x86\Debug\Client.pdb
+C:\Users\Student425\Desktop\Client2.2\Client\bin\Debug\Client.exe
+C:\Users\Student425\Desktop\Client2.2\Client\bin\Debug\Client.pdb
+C:\Users\Student425\Desktop\Client2.2\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student425\Desktop\Client2.2\Client\obj\x86\Debug\Client.Enter.resources
+C:\Users\Student425\Desktop\Client2.2\Client\obj\x86\Debug\Client.Main.resources
+C:\Users\Student425\Desktop\Client2.2\Client\obj\x86\Debug\Client.Settings.resources
+C:\Users\Student425\Desktop\Client2.2\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\Student425\Desktop\Client2.2\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student425\Desktop\Client2.2\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ADMIN\Desktop\Client2.2\Client\bin\Debug\Client.exe.config
+C:\Users\ADMIN\Desktop\Client2.2\Client\obj\x86\Debug\Client.exe
+C:\Users\ADMIN\Desktop\Client2.2\Client\obj\x86\Debug\Client.pdb
+C:\Users\ADMIN\Desktop\Client2.2\Client\bin\Debug\Client.exe
+C:\Users\ADMIN\Desktop\Client2.2\Client\bin\Debug\Client.pdb
+C:\Users\ADMIN\Desktop\Client2.2\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Client2.2\Client\obj\x86\Debug\Client.Enter.resources
+C:\Users\ADMIN\Desktop\Client2.2\Client\obj\x86\Debug\Client.Main.resources
+C:\Users\ADMIN\Desktop\Client2.2\Client\obj\x86\Debug\Client.Settings.resources
+C:\Users\ADMIN\Desktop\Client2.2\Client\obj\x86\Debug\Client.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Client2.2\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ADMIN\Desktop\Client2.2\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Курсач\Client2.2\Client\bin\Debug\Client.exe.config
+D:\Курсач\Client2.2\Client\obj\x86\Debug\Client.exe
+D:\Курсач\Client2.2\Client\obj\x86\Debug\Client.pdb
+D:\Курсач\Client2.2\Client\bin\Debug\Client.exe
+D:\Курсач\Client2.2\Client\bin\Debug\Client.pdb
+D:\Курсач\Client2.2\Client\obj\x86\Debug\Client.Enter.resources
+D:\Курсач\Client2.2\Client\obj\x86\Debug\Client.Main.resources
+D:\Курсач\Client2.2\Client\obj\x86\Debug\Client.Settings.resources
+D:\Курсач\Client2.2\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Курсач\Client2.2\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
